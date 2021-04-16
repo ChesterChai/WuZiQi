@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#FFBEBEBE</color>
+    <color name="red">#FFFF0000</color>
+
+    <color name="main_light_blue">#FF2D7FFF</color>
+
+    <color name="warningText">#FFFF3030</color>
+
+    <color name="boardColor">#FFFFE4B5</color>
+    <color name="boardBoundColor">#99000000</color>
+    <color name="boardLineColor">#99000000</color>
+    <color name="boardPointColor">#FF000000</color>
+    <color name="boardPointMarkColor">#99000000</color>
+    <color name="playerOnePointColor">#FF000000</color>
+    <color name="playerTwoPointColor">#FFFFFFFF</color>
+    <color name="pieceShadow">#99000000</color>
+    <color name="pieceDropIcon">#FFFF0000</color>
+</resources>

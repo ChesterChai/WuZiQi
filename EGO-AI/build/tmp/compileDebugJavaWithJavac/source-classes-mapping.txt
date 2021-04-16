@@ -1,0 +1,54 @@
+ego/gomoku/Piskvork.java
+ ego.gomoku.Piskvork
+ ego.gomoku.Piskvork$1
+ego/gomoku/Main.java
+ ego.gomoku.Main
+ego/gomoku/entity/Point.java
+ ego.gomoku.entity.Point
+ego/gomoku/entity/Result.java
+ ego.gomoku.entity.Result
+ego/gomoku/enumeration/Color.java
+ ego.gomoku.enumeration.Color
+ego/gomoku/enumeration/ComboTye.java
+ ego.gomoku.enumeration.ComboTye
+ego/gomoku/entity/AnalyzedData.java
+ ego.gomoku.entity.AnalyzedData
+ego/gomoku/enumeration/Level.java
+ ego.gomoku.enumeration.Level
+ego/gomoku/entity/ComboResult.java
+ ego.gomoku.entity.ComboResult
+ego/gomoku/entity/Counter.java
+ ego.gomoku.entity.Counter
+ego/gomoku/player/GomokuPlayer.java
+ ego.gomoku.player.GomokuPlayer
+ego/gomoku/exception/TimeOutException.java
+ ego.gomoku.exception.TimeOutException
+ego/gomoku/helper/WinChecker.java
+ ego.gomoku.helper.WinChecker
+ego/gomoku/BuildConfig.java
+ ego.gomoku.BuildConfig
+ego/gomoku/core/Config.java
+ ego.gomoku.core.Config
+ego/gomoku/helper/MapDriver.java
+ ego.gomoku.helper.MapDriver
+ego/gomoku/core/Score.java
+ ego.gomoku.core.Score
+ego/gomoku/core/ComboProcessor.java
+ ego.gomoku.core.ComboProcessor
+ ego.gomoku.core.ComboProcessor$1
+ego/gomoku/core/LevelProcessor.java
+ ego.gomoku.core.LevelProcessor
+ ego.gomoku.core.LevelProcessor$1
+ego/gomoku/helper/ConsolePrinter.java
+ ego.gomoku.helper.ConsolePrinter
+ego/gomoku/core/Game.java
+ ego.gomoku.core.Game
+ego/gomoku/core/Analyzer.java
+ ego.gomoku.core.Analyzer
+ego/gomoku/core/GameMap.java
+ ego.gomoku.core.GameMap
+ego/gomoku/core/BeginningProcessor.java
+ ego.gomoku.core.BeginningProcessor
+ego/gomoku/core/Cache.java
+ ego.gomoku.core.Cache
+ ego.gomoku.core.Cache$QueueMap
