@@ -6,9 +6,8 @@ WuZiQi是一款可以选择棋盘大小，以及AI难度的五子棋游戏，AI�
 
 #### 截图
 
-<img src="https://github.com/ChesterChai/WuZiQi/blob/main/README_IMG/100218.jpg" width="960" height="1080"/><br/>
-<img src="https://github.com/ChesterChai/WuZiQi/blob/main/README_IMG/100230.jpg" width="960" height="1080"/><br/>
-
+<img src="https://github.com/ChesterChai/WuZiQi/blob/main/README_IMG/100218.jpg" width="540" height="1080"/>
+<img src="https://github.com/ChesterChai/WuZiQi/blob/main/README_IMG/100230.jpg" width="540" height="1080"/>
 
 
 #### 依赖库
